@@ -20,3 +20,8 @@ The circuit keeps things maker-friendly by sticking to hand-solderable parts whe
 ## Total Cost & Fabrication
 
 Getting custom PCBs fabricated via JLCPCB, sourcing components, factoring in shipping costs, and accounting for 3D-printing filament brought the total project cost to **22.01 € (~$24.54 USD)** for a batch of 5 boards. A complete breakdown with suppliers and search terms is available in the `BOM.csv` file.
+
+<img width="1068" height="727" alt="Screenshot 2026-11-02 153005" src="https://github.com/user-attachments/assets/d89404bb-0483-4bd2-8692-e19494a8be7d" />
+<img width="1687" height="549" alt="Screenshot 2026-11-02 171119" src="https://github.com/user-attachments/assets/d9e377f7-1954-4b69-9ea0-6806d9fa4984" />
+<img width="929" height="618" alt="Screenshot 2026-11-08 120827" src="https://github.com/user-attachments/assets/aff1ab6e-ce1f-419e-b240-9f731094c55c" />
+<img width="786" height="440" alt="image" src="https://github.com/user-attachments/assets/8ad218f9-b5d2-4784-9620-1d1f3d433a32" />
