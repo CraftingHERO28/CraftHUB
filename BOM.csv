@@ -5,7 +5,7 @@ USB-A Connectors,USB-A Receptacle 90° THT ,4,https://www.reichelt.de/de/de/shop
 Crystal,12 MHz HC-49U ,2,https://www.reichelt.de/de/de/shop/produkt/standardquarz_metall_12mhz_25ppm_30pf_10_7mm_x_4_3mm_x_2_8mm-407369,0.27,0.54,Clock generator for the FE1.1s controller
 Ceramic Capacitors,22pF,5,https://www.reichelt.de/de/de/shop/produkt/keramik-kondensator_22_pf_10_npo_500_v_rm_5-9330,0.04,0.20,Load capacitors for the 12MHz crystal
 Decoupling Capacitors,100nF ,5,https://www.reichelt.de/de/de/shop/produkt/vielschicht-kerko_100_nf_50_100_v_z5u_20_rm_2_5-22977,0.05,0.25,Bypass capacitors at VCC pins
-Resistors,10/5.1/2.7k Ohm ,10/5/10,https://www.reichelt.de/de/de/shop/produkt/duennschichtwiderstand_axial_0_6_w_10_kohm_1_-233666//https://www.reichelt.de/de/de/shop/produkt/duennschichtwiderstand_axial_0_6_w_5_1_kohm_1_-233749//https://www.reichelt.de/de/de/shop/produkt/widerstand_kohleschicht_2_7_kohm_0207_250_mw_5_-1375,0.05/0.09/0.042,1.37,Pull-up / configuration resistors
+Resistors,10/5.1/2.7k Ohm ,10|5|10,https://www.reichelt.de/de/de/shop/produkt/duennschichtwiderstand_axial_0_6_w_10_kohm_1_-233666//https://www.reichelt.de/de/de/shop/produkt/duennschichtwiderstand_axial_0_6_w_5_1_kohm_1_-233749//https://www.reichelt.de/de/de/shop/produkt/widerstand_kohleschicht_2_7_kohm_0207_250_mw_5_-1375,0.05/0.09/0.042,1.37,Pull-up / configuration resistors
 6 Pin Header,6 Pin Header,1,https://www.reichelt.de/de/de/shop/produkt/stiftleisten_2_54_mm_1x20_gerade-119888,0.33,0.33,Pin Header to connect the USB-C Board to the PCB
 Printed Circuit Board (PCB),Custom 2-Layer PCB,1,https://jlcpcb.com,4.5,4.5,Manufacturing cost for 5 PCBs
 Shipping (Components),Amazon/Reichelt,2,,11.5/6,17.5,Postage for electronic components
