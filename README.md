@@ -21,8 +21,13 @@ The circuit keeps things maker-friendly by sticking to hand-solderable parts whe
 
 Getting custom PCBs fabricated via JLCPCB, sourcing components, factoring in shipping costs, and accounting for 3D-printing filament brought the total project cost to **22.01 € (~$24.54 USD)** for a batch of 5 boards. A complete breakdown with suppliers and search terms is available in the `BOM.csv` file.
 
-<img width="929" height="618" alt="Screenshot 2026-11-08 120827" src="https://github.com/user-attachments/assets/aff1ab6e-ce1f-419e-b240-9f731094c55c" />
-<img width="847" height="365" alt="Screenshot 2026-11-08 205338" src="https://github.com/user-attachments/assets/6fb7070b-2e18-46f9-a00a-d3fd34795724" />
-<img width="1796" height="507" alt="Screenshot 2026-11-08 205320" src="https://github.com/user-attachments/assets/77f5b97c-1c49-4d03-ab5c-6546dfca0c57" />
-<img width="950" height="686" alt="image" src="https://github.com/user-attachments/assets/36afeb01-fd08-4c4e-bfd9-fbc529d89a74" />
+<img width="1533" height="484" alt="image" src="https://github.com/user-attachments/assets/8e76a793-cc55-41a6-9cba-3aebfe33ff5e" />
+<img width="1533" height="484" alt="image" src="https://github.com/user-attachments/assets/bc1d6f57-f60f-48d2-a99b-c1803e9d7bbf" />
+<img width="1452" height="307" alt="Screenshot 2026-11-15 204539" src="https://github.com/user-attachments/assets/0ab1066c-8b1c-477c-a5f3-5f33dcae1038" />
+<img width="804" height="477" alt="Screenshot 2026-11-15 204508" src="https://github.com/user-attachments/assets/f396fe1c-1df8-49ab-9b50-8850b1c1f6ce" />
+<img width="1333" height="434" alt="Screenshot 2026-11-16 185001" src="https://github.com/user-attachments/assets/2fe317ff-ff93-4de7-8e76-b7cc8ea8f524" />
+<img width="950" height="686" alt="Screenshot 2026-11-08 205756" src="https://github.com/user-attachments/assets/7d51cbea-7fb2-41c7-b01a-532133c92470" />
+<img width="742" height="380" alt="image" src="https://github.com/user-attachments/assets/44ec949e-4721-4b64-8066-3432b9f1deca" />
+
+
 
